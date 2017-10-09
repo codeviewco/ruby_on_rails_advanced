@@ -37,7 +37,8 @@ We have setup __Rspec__ and __Factory Girl__ for testing, so you don't have to w
 
 - Devise User Model
 - Venue Model
-- Bands Scaffold
+- Band Model
+- Concerts Scaffold
 - Rspec
 - Factory Girl
 - Rubocop
