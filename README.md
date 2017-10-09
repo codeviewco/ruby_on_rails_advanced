@@ -48,7 +48,7 @@ We have setup __Rspec__ and __Factory Girl__ for testing, so you don't have to w
 
 - Create two branches, _one for each story_.
 - Make commits. FYI we do evaluate the way that you make commits.
-- Use any additional libraries that you like. Be continuous of the dependecies that you introduce. We evaluate those choices as well.
+- Use any additional libraries that you like. Be continuous of the dependencies that you introduce. We evaluate those choices as well.
 - Update seed file with all the required records to run through the app.
 - We would like to know your assumptions and thoughts for what you are doing. Place them at the bottom of this readme under the section Candidate Comments
 - Create pull requests _for each branch_ into the master branch when you have completed everything.
